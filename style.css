@@ -1,0 +1,49 @@
+body,
+
+
+html {
+	width:100%;
+	height:100%;
+	font-family: 'Montserrat', sans-serif;
+	background: url(elpepe.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+hr{
+	border-color:#E53E00;
+	border-width:3px;
+	max-width: 65px;
+}
+h1{
+	color:#F9F5F1;
+	font-size: 3rem;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-xl{
+	padding:1rem 2rem;
+}
+
+
+.btn-primary{
+	background-color: #E53E00;
+	border-color:#E53E00;
+}
+
+.btn-primary:hover{
+	background-color:#A42C00;
+	border-color:#A42C00;
+	border-width:4px;
+
+}
+
+.buffer{
+	height: 12rem;
+}
